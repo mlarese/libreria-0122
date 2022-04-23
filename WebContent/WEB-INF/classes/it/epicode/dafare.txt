@@ -1,0 +1,6 @@
+1. Applicazione Web dinamica
+2) nessuna pagina html
+3) Per ogni entità individuata creare
+	a. Un Entity con i campi
+	b. Una classe da far diventare un servizio rest tramite le annotazioni
+	
